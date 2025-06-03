@@ -89,7 +89,7 @@ I'm a **Computer Science & Engineering graduate** with a major in **Data Science
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mehefujurmubin&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/streak-stats/mehefujurmubin?theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Achievements & Certifications
