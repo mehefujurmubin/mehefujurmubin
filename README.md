@@ -88,10 +88,6 @@ I'm a **Computer Science & Engineering graduate** with a major in **Data Science
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehefujurmubin&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/streak-stats/mehefujurmubin?theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Achievements & Certifications
 
 - 🥉 **5th Place Worldwide** - University Rover Challenge 2024, Utah USA
