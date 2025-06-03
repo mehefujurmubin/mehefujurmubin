@@ -1,25 +1,20 @@
-# Hi there, I'm Mehefujur Rahman Mubin! 👋
+# Hi there, I'm Md Mehefujur Rahman Mubin! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Computer+Vision+Researcher;Robotics+Enthusiast;Data+Science+Graduate;Mars+Rover+Team+Member" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision%2C+NLP+and+Robotics+Researcher;Computer+Science+and+Engineering+Graduate;Mars+Rover+Team+Member" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a **Computer Science & Engineering graduate** with a major in **Data Science** and a passion for pushing the boundaries of AI and robotics. Currently working as a **Machine Learning Engineer** at Metrosofts.se, where I'm developing cutting-edge systems that combine computer vision and natural language processing.
+I'm a **Computer Science & Engineering graduate** with a major in **Data Science** and a passion for pushing the boundaries of AI and robotics. Currently working as a **Research Assistant** at **RIoT Research Center, Independent University, Bangladesh** and as a **Machine Learning Engineer** at [**Metrosofts.se**](https://metrosofts.se), where I'm developing cutting-edge systems that combine computer vision, natural language processing, and industrial automation.
 
-- 🔭 **Currently working on:** Intelligent systems integrating vision and text encoders for autonomous interaction
+- 🔭 **Currently working on:** Intelligent systems integrating vision and text encoders for autonomous interaction & Industrial automation research
 - 🌱 **Research Focus:** Computer Vision, NLP, Robotics, and Industrial Automation
 - 🎯 **Goal:** Contributing to innovative AI solutions that make a real-world impact
 - 🏆 **Achievement:** 5th place worldwide in Mars Rover Challenge 2024 🚀
-- 💡 **Expertise:** Machine Learning, Deep Learning, Computer Vision, Data Analytics
+- 💡 **Dual Role:** Research Assistant at RIoT Center + ML Engineer at [Metrosofts.se](https://metrosofts.se)
 
 ## 🌟 Highlights
-
-### 🛰️ Mars Rover Team Achievement
-- **5th Place Worldwide** in University Rover Challenge 2024
-- Developed ML frameworks for detecting signs of life on Mars
-- Created geological analysis models for mission objectives
 
 ### 🎓 Academic Excellence
 - **CGPA: 3.98/4.0** in Computer Science & Engineering
@@ -29,7 +24,12 @@ I'm a **Computer Science & Engineering graduate** with a major in **Data Science
 ### 🔬 Research & Publications
 - Published in **IEEE Conference** on Energy Aware Scheduling
 - Research on **Automated Defect Detection** in garment production
-- Active researcher at Center for Industrial Automation, Robotics, and IoT
+- Active researcher at Center for Industrial Automation, Robotics, and Internet of Things (RIoT Research Center)
+
+### 🛰️ Mars Rover Team Achievement
+- **5th Place Worldwide** in University Rover Challenge 2024
+- Developed ML frameworks for detecting signs of life on Mars
+- Created geological analysis models for mission objectives
 
 ## 💼 Professional Experience
 
@@ -39,11 +39,23 @@ I'm a **Computer Science & Engineering graduate** with a major in **Data Science
 - Building unified frameworks bridging AI, computer vision, and robotics
 - Implementing visual grounding and task planning systems
 
-### 🔬 Research Assistant @ Independent University
+### 🔬 Research Assistant @ RIoT Center, Independent University, Bangladesh
 *Dhaka, Bangladesh | Feb 2025 - Present*
 - Conducting cutting-edge research in industrial automation and robotics
 - Implementing ML and computer vision models for research projects
 - Writing research papers for international conferences
+
+### 👨‍🏫 Graduate Teaching Assistant @ United International University
+*Dhaka, Bangladesh | Feb 2023 - Jan 2024*
+- Assisted faculty in conducting laboratory sessions and ensuring productive learning environment
+- Provided hands-on support to students during classes to enhance understanding
+- Collaborated with faculty to prepare course materials, assignments, and assessment criteria
+
+### 📝 Grader @ United International University
+*Dhaka, Bangladesh | Nov 2022 - Jan 2024*
+- Assessed exam scripts and assignments ensuring fair and accurate evaluations
+- Maintained detailed grading records for student assessments
+- Prepared and distributed marksheets, facilitating timely feedback to students
 
 ## 🛠️ Tech Stack & Skills
 
@@ -84,8 +96,8 @@ I'm a **Computer Science & Engineering graduate** with a major in **Data Science
 
 - 🥉 **5th Place Worldwide** - University Rover Challenge 2024, Utah USA
 - 🚀 **Mars Rover Team Member** - University Rover Challenge 2023 & 2024
-- 🇹🇷 **International Competitor** - Anatolian Rover Challenge 2023, Turkey
-- 🇨🇦 **Scholarship Recipient** - Study in Canada Program ($10,000 CAD)
+- 🏆 **International Competitor** - Anatolian Rover Challenge 2023, Turkey
+- 🎓 **Scholarship Recipient** - Study in Canada Program ($10,000 CAD)
 - 📚 **Teaching Assistant** - United International University
 - 📊 **Published Researcher** - IEEE & International Conferences
 
