@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science & Engineering graduate** with a major in **Data Science** and a passion for pushing the boundaries of AI and robotics. Currently working as a **Research Assistant** at **RIoT Research Center, Independent University, Bangladesh** and as a **Machine Learning Engineer** at [**Metrosofts.se**](https://metrosofts.se), where I'm developing cutting-edge systems that combine computer vision, natural language processing, and industrial automation.
+I'm a **Computer Science and Engineering graduate** with a major in **Data Science** and a passion for pushing the boundaries of AI and robotics. Currently working as a **Research Assistant** at **RIoT Research Center, Independent University, Bangladesh** and as a **Machine Learning Engineer** at [**Metrosofts.se**](https://metrosofts.se), where I'm developing cutting-edge systems that combine computer vision, natural language processing, and industrial automation.
 
 - 🔭 **Currently working on:** Intelligent systems integrating vision and text encoders for autonomous interaction & Industrial automation research
 - 🌱 **Research Focus:** Computer Vision, NLP, Robotics, and Industrial Automation
