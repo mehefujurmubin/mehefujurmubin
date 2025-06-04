@@ -118,7 +118,7 @@ I'm a **Computer Science and Engineering graduate** with a major in **Data Scien
 
 ## 💭 Quote
 
-> *"The future belongs to those who combine artificial intelligence with human creativity to solve real-world problems."*
+> *"AI is powerful. Creativity gives it purpose."*
 
 ---
 
