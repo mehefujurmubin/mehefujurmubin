@@ -22,7 +22,7 @@ I'm a **Computer Science and Engineering graduate** with a major in **Data Scien
 - **Study in Canada Scholarship** recipient ($10,000 CAD + full tuition waived)
 
 ### 🔬 Research & Publications
-- Published in **IEEE Conference** on Energy Aware Scheduling
+- Published in **IEEE Conference** on Energy Aware Scheduling for virtual machines
 - Research on **Automated Defect Detection** in garment production
 - Active researcher at Center for Industrial Automation, Robotics, and Internet of Things (RIoT Research Center)
 
